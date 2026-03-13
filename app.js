@@ -1,1 +1,1 @@
-console.log("App loaded")
+console.log("Beautiful UI loaded")

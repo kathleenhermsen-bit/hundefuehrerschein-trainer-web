@@ -1,1 +1,1 @@
-window.QUESTIONS=[];
+window.QUESTIONS = [];
